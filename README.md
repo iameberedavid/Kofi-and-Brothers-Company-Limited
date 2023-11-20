@@ -21,3 +21,9 @@ N/B: The datasets used are publicly available.
 5. How many Professional Middle Age male workers purchased bikes from the company?
 6. Is the assumption that Graduate degree holders purchase more bikes compared to high school leavers true?
 
+## Author
+
+| Name | Profile | Portfolio | Articles | Contact |
+| ---- | ------- | --------- | -------- | ------- |
+| Chidiebere David Ogbonna | [LinkedIn](https://www.linkedin.com/in/chidieberedavidogbonna/) | [GitHub](https://github.com/iameberedavid) | [Medium](https://eberedavid.medium.com) | eberedavid326@gmail.com |
+
