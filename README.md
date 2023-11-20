@@ -31,3 +31,6 @@ N/B: The datasets used are publicly available.
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
+## Contact
+
+For questions, feedback, and collaborations, please send a mail to: eberedavid326@gmail.com
