@@ -1,6 +1,7 @@
 # KOFI AND BROTHERS COMPANY LIMITED
 
-Kofi and Brothers Company Limited deals in the production and sale of bikes. There has been a growing concern as to how to maximize revenue while delivering on their goal to provide affordable biking solutions to everyone. As a data analyst, I was approached by the marketing manager of the company to help gain insights into their data.
+N/B: The datasets used are publicly available.
+Kofi and Brothers Company Limited deals in the production and sale of bikes. There has been a growing concern as to how to maximize revenue while delivering on their goal to provide affordable biking solutions to everyone. As a data analyst, I am to help the marketing manager of the company gain insights into their data in order to make informed decisions.
 
 **Analytical Questions**
 1. What is the average income for females?
