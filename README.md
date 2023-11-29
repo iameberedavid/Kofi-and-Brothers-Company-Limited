@@ -4,7 +4,7 @@
 
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue)
 ![Excel](https://img.shields.io/badge/Excel-blue)
-![Pivot](https://img.shields.io/badge/Pivot-)
+![Pivot](https://img.shields.io/badge/Pivot-blue)
 ![MIT](https://img.shields.io/badge/MIT-License-blue)
 
 
